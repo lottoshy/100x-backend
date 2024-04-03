@@ -1,0 +1,16 @@
+{
+  "name": "100x-microblogging-backend",
+  "version": "1.0.0",
+  "description": "Backend for 100x microblogging platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "100x"
+  ],
+  "author": "Ritesh Nimje",
+  "license": "ISC"
+}
